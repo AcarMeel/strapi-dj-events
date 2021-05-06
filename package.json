@@ -10,6 +10,7 @@
     "strapi": "strapi"
   },
   "devDependencies": {
+    "slugify": "^1.5.1",
     "strapi-provider-upload-cloudinary": "^3.6.1"
   },
   "dependencies": {
